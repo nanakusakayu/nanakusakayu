@@ -1,8 +1,5 @@
-aaaaaa
-q
+2017/5/4
+みどりの日
 
-wq
-wq
-wq;
-+
+git-push１回目
 
