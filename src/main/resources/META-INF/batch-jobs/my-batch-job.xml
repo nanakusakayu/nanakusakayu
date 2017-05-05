@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<job id="my-batch-job"
+     xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="1.0">
+    <properties>
+        <property name="dir" value="/Users/nana/Desktop"/>
+        <property name="input_file" value="test1.csv"/>
+    </properties>
+
+    <step id="first-step">
+        <chunk item-count="5">
+            <reader    ref="myItemReader"/>
+            <processor ref="myItemProcessor"/>
+            <writer    ref="myItemWriter"/>
+        </chunk>
+    </step>
+</job>

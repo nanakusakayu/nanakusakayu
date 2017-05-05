@@ -1,0 +1,6 @@
+/Users/nana/NetBeansProjects/jBatch-sample-master/src/main/java/sample/producer/JpaProducer.java
+/Users/nana/NetBeansProjects/jBatch-sample-master/src/main/java/sample/batch/MyItemProcessor.java
+/Users/nana/NetBeansProjects/jBatch-sample-master/src/main/java/sample/servlet/BatchStartServlet.java
+/Users/nana/NetBeansProjects/jBatch-sample-master/src/main/java/sample/batch/MyItemReader.java
+/Users/nana/NetBeansProjects/jBatch-sample-master/src/main/java/sample/entity/Test.java
+/Users/nana/NetBeansProjects/jBatch-sample-master/src/main/java/sample/batch/MyItemWriter.java
