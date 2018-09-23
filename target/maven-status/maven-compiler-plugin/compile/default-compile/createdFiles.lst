@@ -1,7 +1,0 @@
-sample/producer/JpaProducer.class
-sample/batch/MyItemProcessor.class
-sample/entity/Test.class
-sample/batch/MyItemWriter.class
-sample/servlet/BatchStartServlet.class
-sample/batch/MyItemReader.class
-sample/entity/Test_.class
