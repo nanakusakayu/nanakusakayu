@@ -1,0 +1,432 @@
+commit 252d15ec58504a9005d6b796943ceda8a9b93e88
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 23:08:52 2018 +0900
+
+    iii
+
+0	0	ppp.txt
+
+commit 95a7daa45a7b486297ec49599a2a6248ab05c400
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 22:11:05 2018 +0900
+
+    iii
+
+0	0	ooo.txt
+
+commit 2573f8581032e608a5ed10c6c143bd4d95fa9c79
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 22:10:33 2018 +0900
+
+    iii
+
+0	0	nnn.txt
+
+commit b2c348d1a16f5823910fabba22faaf7ccf30bc7b
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 22:09:14 2018 +0900
+
+    iii
+
+0	0	mmm.txt
+
+commit 83fb9bfb19fa4cf8cf709c5bc5ba45c8a7ed67d3
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 22:08:49 2018 +0900
+
+    iii
+
+0	0	lll.txt
+
+commit 00a45293fccfec835159d412236ab18035a76da3
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 22:07:33 2018 +0900
+
+    iii
+
+0	0	kkk.txt
+
+commit c66d3e2daedac7b2e095b4683c55f0fe5a66e8bb
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 21:37:28 2018 +0900
+
+    iii
+
+0	0	jjj.txt
+
+commit 36227d7e4a00b0fb460b4abaeba3b8534293d507
+Merge: e83d1f4 5e06c25
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 21:23:04 2018 +0900
+
+    iiiiMerge remote-tracking branch 'origin/test1'
+
+commit e83d1f472e87a0f5e4d092022dd53becc82ed8f8
+Merge: 63c7a68 92a6a2c
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 21:21:44 2018 +0900
+
+    Merge branch 'test1'
+
+commit 5e06c2505741c1abfd254c10eaa7cc650bac8bfb
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 21:20:58 2018 +0900
+
+    iiii
+
+0	0	iii.txt
+
+commit c7b02136251fd1c3ecefd37ac0cb52d1fbae9e1b
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 20:39:15 2018 +0900
+
+    iiii
+
+0	0	hhh.txt
+
+commit 92a6a2cb236ae2664d702b245e70f95e32027397
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 20:26:36 2018 +0900
+
+    iiii
+
+0	0	ggg.txt
+
+commit 0612447e72130aef0f7124b9a63933817b2c76c3
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 20:21:53 2018 +0900
+
+    iiiii
+
+0	0	fff.txt
+
+commit 040a0a79d0dbed433808313e04fff1560fe22f3e
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 20:15:00 2018 +0900
+
+    iiiii
+
+1	0	eee.txt
+
+commit 63c7a68238b8da1abf9168b8a039ed3bbbe910d3
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sun Sep 23 20:05:14 2018 +0900
+
+    delete
+
+0	2	.gitignore
+-	-	aaa.xlsx
+-	-	bbb.xlsx
+-	-	ccc.pptx
+0	0	ddd.txt
+0	94	pom.xml
+-	-	src/.DS_Store
+-	-	src/main/.DS_Store
+-	-	src/main/java/.DS_Store
+-	-	src/main/java/sample/.DS_Store
+0	33	src/main/java/sample/batch/MyItemProcessor.java
+0	58	src/main/java/sample/batch/MyItemReader.java
+0	47	src/main/java/sample/batch/MyItemWriter.java
+0	79	src/main/java/sample/entity/Test.java
+0	4	src/main/java/sample/entity/test-create.sql
+0	21	src/main/java/sample/producer/JpaProducer.java
+0	29	src/main/java/sample/servlet/BatchStartServlet.java
+-	-	src/main/resources/.DS_Store
+-	-	src/main/resources/META-INF/.DS_Store
+0	16	src/main/resources/META-INF/batch-jobs/my-batch-job.xml
+0	23	src/main/resources/META-INF/persistence.xml
+-	-	src/main/webapp/.DS_Store
+0	14	src/main/webapp/WEB-INF/glassfish-resources.xml
+0	9	src/main/webapp/WEB-INF/web.xml
+-	-	src/test/.DS_Store
+0	0	target/classes/.netbeans_automatic_build
+0	16	target/classes/META-INF/batch-jobs/my-batch-job.xml
+0	23	target/classes/META-INF/persistence.xml
+-	-	target/classes/sample/batch/MyItemProcessor.class
+-	-	target/classes/sample/batch/MyItemReader.class
+-	-	target/classes/sample/batch/MyItemWriter.class
+-	-	target/classes/sample/entity/Test.class
+-	-	target/classes/sample/entity/Test_.class
+-	-	target/classes/sample/producer/JpaProducer.class
+-	-	target/classes/sample/servlet/BatchStartServlet.class
+-	-	target/endorsed/javaee-endorsed-api-7.0.jar
+0	14	target/generated-sources/annotations/sample/entity/Test_.java
+-	-	target/jBatch-sample-1.0-SNAPSHOT.war
+0	16	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/META-INF/batch-jobs/my-batch-job.xml
+0	23	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemProcessor.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemReader.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemWriter.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/entity/Test.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/entity/Test_.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/producer/JpaProducer.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/servlet/BatchStartServlet.class
+0	14	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/glassfish-resources.xml
+0	10	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/glassfish-web.xml
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/lib/ojdbc6-11.2.0.4.jar
+0	9	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/web.xml
+0	5	target/maven-archiver/pom.properties
+0	7	target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+0	6	target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+0	0	target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+0	0	target/test-classes/.netbeans_automatic_build
+-	-	test-network.bna
+0	1	test1
+0	1	test2
+
+commit 42b4a071b80bbbc672ce548fe1569cd1e3860684
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 22 21:26:35 2018 +0900
+
+    aaaaaaaaa
+
+0	0	fff.txt
+
+commit 25416384100c5f385c991cd02e7482498cb1d943
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 22 21:24:01 2018 +0900
+
+    commit eee.txt
+
+0	0	eee.txt
+-	-	hoge.zip
+1	0	test1
+1	0	test2
+
+commit 0daaf5673f7d467788db89e3fde3c4033b54f231
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 22 21:03:00 2018 +0900
+
+    9/22のcommitです
+
+0	0	ddd.txt
+1	0	test1
+1	0	test2
+
+commit b0fc895110565257c650d5322d838545fe4c1fba
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Thu Sep 13 23:10:26 2018 +0900
+
+    ddd add
+
+0	0	ddd.txt
+
+commit 1d7d69c514bc62012efc4b6b3ebb30523311215e
+Merge: ea9b1e0 92791ef
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Thu Sep 13 23:09:30 2018 +0900
+
+    Merge branch 'test1' of https://github.com/nanakusakayu/nanakusakayu
+
+commit ea9b1e0a8363489262bf1fa83ca1f69d80444774
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Tue Sep 11 23:06:34 2018 +0900
+
+    aaa
+
+-	-	test-network.bna
+
+commit f8851b8701dce19138a052f2eaf8342ec861af82
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Tue Sep 11 23:02:55 2018 +0900
+
+    bna
+
+-	-	test-network.bna
+
+commit 92791efb1c2360327c39b249dea196ee6fe1e53c
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 8 22:54:39 2018 +0900
+
+    ppt ccc change
+
+-	-	ccc.pptx
+
+commit 23dbc25e93a408cf6065d371ac2295ce702143af
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 8 21:40:41 2018 +0900
+
+    ppt change
+
+-	-	ccc.pptx
+
+commit e53ce58aaad734da746d5e0383dbfd3430de21f5
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 8 21:39:31 2018 +0900
+
+    PPT ADD
+
+-	-	ccc.pptx
+
+commit cd9169476a6eed0354d82b525625a974be2380c6
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 8 20:29:07 2018 +0900
+
+    EXCELL ADD2
+
+-	-	bbb.xlsx
+
+commit cfdd3634ddf1224890c2ad629f7a4759fdccdb8c
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 8 20:27:36 2018 +0900
+
+    EXCEL CHANGE
+
+-	-	aaa.xlsx
+
+commit 24d136c8059a0d54b40e2f53179290a5e9f6d1c3
+Author: kazunorinanashima <nanakusakayu@hotmail.com>
+Date:   Sat Sep 8 20:25:08 2018 +0900
+
+    Excel ADD
+
+-	-	aaa.xlsx
+
+commit f2551cc4fa0393063f2a13d47b84a9fd7c8da991
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Fri May 5 10:34:37 2017 +0900
+
+    jbatch-sampleのコミット
+
+-	-	.DS_Store
+2	1	.gitignore
+94	0	pom.xml
+-	-	src/.DS_Store
+-	-	src/main/.DS_Store
+-	-	src/main/java/.DS_Store
+-	-	src/main/java/sample/.DS_Store
+33	0	src/main/java/sample/batch/MyItemProcessor.java
+58	0	src/main/java/sample/batch/MyItemReader.java
+47	0	src/main/java/sample/batch/MyItemWriter.java
+79	0	src/main/java/sample/entity/Test.java
+4	0	src/main/java/sample/entity/test-create.sql
+21	0	src/main/java/sample/producer/JpaProducer.java
+29	0	src/main/java/sample/servlet/BatchStartServlet.java
+-	-	src/main/resources/.DS_Store
+-	-	src/main/resources/META-INF/.DS_Store
+16	0	src/main/resources/META-INF/batch-jobs/my-batch-job.xml
+23	0	src/main/resources/META-INF/persistence.xml
+-	-	src/main/webapp/.DS_Store
+14	0	src/main/webapp/WEB-INF/glassfish-resources.xml
+9	0	src/main/webapp/WEB-INF/web.xml
+-	-	src/test/.DS_Store
+0	0	target/classes/.netbeans_automatic_build
+16	0	target/classes/META-INF/batch-jobs/my-batch-job.xml
+23	0	target/classes/META-INF/persistence.xml
+-	-	target/classes/sample/batch/MyItemProcessor.class
+-	-	target/classes/sample/batch/MyItemReader.class
+-	-	target/classes/sample/batch/MyItemWriter.class
+-	-	target/classes/sample/entity/Test.class
+-	-	target/classes/sample/entity/Test_.class
+-	-	target/classes/sample/producer/JpaProducer.class
+-	-	target/classes/sample/servlet/BatchStartServlet.class
+-	-	target/endorsed/javaee-endorsed-api-7.0.jar
+14	0	target/generated-sources/annotations/sample/entity/Test_.java
+-	-	target/jBatch-sample-1.0-SNAPSHOT.war
+16	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/META-INF/batch-jobs/my-batch-job.xml
+23	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemProcessor.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemReader.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemWriter.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/entity/Test.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/entity/Test_.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/producer/JpaProducer.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/servlet/BatchStartServlet.class
+14	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/glassfish-resources.xml
+10	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/glassfish-web.xml
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/lib/ojdbc6-11.2.0.4.jar
+9	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/web.xml
+5	0	target/maven-archiver/pom.properties
+7	0	target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+6	0	target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+0	0	target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+0	0	target/test-classes/.netbeans_automatic_build
+0	1	test_dir/url.txt
+
+commit 4de7335da36af3014273501ef159969ec8c0082e
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 11:08:35 2017 +0900
+
+    aaaaaaaa
+
+0	10	aaa/ggg.txt
+
+commit f26477e25c9763d8f680690235b635d717a52705
+Merge: 704c73e b3d61f9
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 10:22:27 2017 +0900
+
+    Merge branch 'test1'
+
+commit 704c73e35c07bb4e94b5a4bfe92007e80d29bb08
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 10:17:42 2017 +0900
+
+    git commit -v の実験
+
+2	0	aaa/ggg.txt
+
+commit 120c3bd1238438cdc03fb6ecd09ab0b082155d20
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 10:16:39 2017 +0900
+
+    addなしでコミットする。
+
+2	0	aaa/ggg.txt
+
+commit b39f93b3e663daa0f13b78c9254102c6efb42217
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 10:12:43 2017 +0900
+
+    ファイルをコピーし、削除
+
+0	0	aaa/{eee.txt => ggg.txt}
+
+commit 470eead429a56edeae8a43c7f993ecab5681b809
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 10:08:45 2017 +0900
+
+    ファイル名変更
+
+0	0	aaa/{aaa.txt => eee.txt}
+
+commit fe8effc21bb1b95045af4ec9109d1a248144d600
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 10:04:44 2017 +0900
+
+    ２回目のコミットです。
+
+1	0	aaa/aaa.txt
+
+commit bdf4b17814ed1bc6ca3b7dc8ce6673b1f837fb51
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 09:52:14 2017 +0900
+
+    コミットメッセージの入力
+
+3	6	aaa/aaa.txt
+
+commit 8af688d7a6e7f84ef840000a741d800c415ea351
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 00:45:47 2017 +0900
+
+    コミットメッセージの設定
+
+-	-	.DS_Store
+8	0	aaa/aaa.txt
+
+commit b3d61f920f79972efa89746c56bb00388801b1bd
+Author: kazunori nanashima <nanakusakayu@hotmail.com>
+Date:   Thu May 4 00:36:23 2017 +0900
+
+    初めてのコミットです。
+
+1	0	test_dir/url.txt
+
+commit 84d266705d90a3fd0c870c28bffac1653c79cbcd
+Author: nanakusakayu <nanakusakayu@hotmail.com>
+Date:   Thu Mar 3 00:27:47 2016 +0900
+
+    Update .gitignore
+
+1	0	.gitignore

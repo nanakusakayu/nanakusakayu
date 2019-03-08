@@ -1,0 +1,99 @@
+42b4a07 aaaaaaaaa
+0	0	fff.txt
+2541638 commit eee.txt
+0	0	eee.txt
+-	-	hoge.zip
+1	0	test1
+1	0	test2
+1d7d69c Merge branch 'test1' of https://github.com/nanakusakayu/nanakusakayu
+ea9b1e0 aaa
+-	-	test-network.bna
+92791ef ppt ccc change
+-	-	ccc.pptx
+23dbc25 ppt change
+-	-	ccc.pptx
+e53ce58 PPT ADD
+-	-	ccc.pptx
+cd91694 EXCELL ADD2
+-	-	bbb.xlsx
+cfdd363 EXCEL CHANGE
+-	-	aaa.xlsx
+24d136c Excel ADD
+-	-	aaa.xlsx
+f2551cc jbatch-sampleのコミット
+-	-	.DS_Store
+2	1	.gitignore
+94	0	pom.xml
+-	-	src/.DS_Store
+-	-	src/main/.DS_Store
+-	-	src/main/java/.DS_Store
+-	-	src/main/java/sample/.DS_Store
+33	0	src/main/java/sample/batch/MyItemProcessor.java
+58	0	src/main/java/sample/batch/MyItemReader.java
+47	0	src/main/java/sample/batch/MyItemWriter.java
+79	0	src/main/java/sample/entity/Test.java
+4	0	src/main/java/sample/entity/test-create.sql
+21	0	src/main/java/sample/producer/JpaProducer.java
+29	0	src/main/java/sample/servlet/BatchStartServlet.java
+-	-	src/main/resources/.DS_Store
+-	-	src/main/resources/META-INF/.DS_Store
+16	0	src/main/resources/META-INF/batch-jobs/my-batch-job.xml
+23	0	src/main/resources/META-INF/persistence.xml
+-	-	src/main/webapp/.DS_Store
+14	0	src/main/webapp/WEB-INF/glassfish-resources.xml
+9	0	src/main/webapp/WEB-INF/web.xml
+-	-	src/test/.DS_Store
+0	0	target/classes/.netbeans_automatic_build
+16	0	target/classes/META-INF/batch-jobs/my-batch-job.xml
+23	0	target/classes/META-INF/persistence.xml
+-	-	target/classes/sample/batch/MyItemProcessor.class
+-	-	target/classes/sample/batch/MyItemReader.class
+-	-	target/classes/sample/batch/MyItemWriter.class
+-	-	target/classes/sample/entity/Test.class
+-	-	target/classes/sample/entity/Test_.class
+-	-	target/classes/sample/producer/JpaProducer.class
+-	-	target/classes/sample/servlet/BatchStartServlet.class
+-	-	target/endorsed/javaee-endorsed-api-7.0.jar
+14	0	target/generated-sources/annotations/sample/entity/Test_.java
+-	-	target/jBatch-sample-1.0-SNAPSHOT.war
+16	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/META-INF/batch-jobs/my-batch-job.xml
+23	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemProcessor.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemReader.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/batch/MyItemWriter.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/entity/Test.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/entity/Test_.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/producer/JpaProducer.class
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/classes/sample/servlet/BatchStartServlet.class
+14	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/glassfish-resources.xml
+10	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/glassfish-web.xml
+-	-	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/lib/ojdbc6-11.2.0.4.jar
+9	0	target/jBatch-sample-1.0-SNAPSHOT/WEB-INF/web.xml
+5	0	target/maven-archiver/pom.properties
+7	0	target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+6	0	target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+0	0	target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+0	0	target/test-classes/.netbeans_automatic_build
+0	1	test_dir/url.txt
+4de7335 aaaaaaaa
+0	10	aaa/ggg.txt
+f26477e Merge branch 'test1'
+704c73e git commit -v の実験
+2	0	aaa/ggg.txt
+120c3bd addなしでコミットする。
+2	0	aaa/ggg.txt
+b39f93b ファイルをコピーし、削除
+0	0	aaa/{eee.txt => ggg.txt}
+470eead ファイル名変更
+0	0	aaa/{aaa.txt => eee.txt}
+fe8effc ２回目のコミットです。
+1	0	aaa/aaa.txt
+bdf4b17 コミットメッセージの入力
+3	6	aaa/aaa.txt
+8af688d コミットメッセージの設定
+-	-	.DS_Store
+8	0	aaa/aaa.txt
+b3d61f9 初めてのコミットです。
+1	0	test_dir/url.txt
+84d2667 Update .gitignore
+1	0	.gitignore
