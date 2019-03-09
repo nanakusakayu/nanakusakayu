@@ -1,4 +1,4 @@
-TB106.DAO
+import TB106.DAO
 logic1
 logic2
 logic3
